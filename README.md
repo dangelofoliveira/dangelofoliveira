@@ -36,7 +36,7 @@ Eu sou o Dângelo.
 <hr/>
 
 ### E aqui as Tecnologias que mais tenho afeição 👇
-
+<br>
 <div style="display: inline-block">  
   <p>
     ### Sistemas Operacionais <br><br>
