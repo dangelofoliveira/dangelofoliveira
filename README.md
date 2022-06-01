@@ -6,26 +6,26 @@ Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto,
 
 <br>
 
-<div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=dangelofoliveira&show_icons=true&theme=dark&count_private=true)](https://github.com/dangelofoliveira/github-readme-stats)
+
+[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelofoliveira&langs_count=8&theme=dark)](https://github.com/dangelofoliveira/github-readme-stats)
+
+<br>
+
+<div style="display: inline-block">
   <p>
     ### Contatos <br><br>
-    <a href="http://br.linkedin.com/in/dangelofoliveira" target="_blank"> 
+    <a target="_blank" href="http://br.linkedin.com/in/dangelofoliveira"> 
       <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="dgdangelodg@gmail.com" target="_blank">
+    <a target="_blank" href="mailto:dgdangelodg@gmail.com">
       <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://t.me/dangelofoliveira" target="_blank">
+    <a target="_blank" href="https://t.me/dangelofoliveira">
       <img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
   </p>
 </div>
-
-<br>
-
-![Dângelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangelofoliveira&show_icons=true&theme=dark)
-
-[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelofoliveira&langs_count=8&theme=dark)](https://github.com/dangelofoliveira/github-readme-stats)
 
 <br>
 
@@ -69,8 +69,8 @@ Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto,
     <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     <img align="center" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/%7F%20-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
-    <img align="center" alt="Power BI" src="https://img.shields.io/badge/%7F%20-PowerBI-yellow?style=for-the-badge&logo=PowerBI"/>
+    <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=black"/>
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-FCC624?style=for-the-badge&logo=PowerBI&logoColor=black"/>
   </p>
     
   <br>
