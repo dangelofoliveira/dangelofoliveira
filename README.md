@@ -1,8 +1,10 @@
-### Eu sou o Dângelo
+### Welcome Aboard!!!
 
 <br>
 
-Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto, vou deixar as minhas criações falarem por mim.
+Eu sou o Dângelo. 
+
+Análise de dados | Business Intelligence | Data Science
 
 <br>
 
