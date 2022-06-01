@@ -9,7 +9,7 @@ Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto,
 <div>
   <p>
     ### Contatos <br><br>
-    <a href="http://br.linkedin.com/in/dangelofoliveira" target="_blank">
+    <a href="http://br.linkedin.com/in/dangelofoliveira" target="_blank"> 
       <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="dgdangelodg@gmail.com" target="_blank">
