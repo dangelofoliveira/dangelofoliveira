@@ -4,19 +4,23 @@
 
 Eu sou o Dângelo. 
 
-Análise de dados | Business Intelligence | Data Science
+### Análise de dados 🔎🎲🎲🎲
 
-<br>
+### Business Intelligence 🧰📄📑💰💵💸
+
+### Data Science 📈📉📊📝💻🖥
+
+<hr/>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dangelofoliveira&show_icons=true&theme=dark&count_private=true)](https://github.com/dangelofoliveira/github-readme-stats)
 
 [![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelofoliveira&langs_count=8&theme=dark)](https://github.com/dangelofoliveira/github-readme-stats)
 
-<br>
+<hr/>
 
+### Contatos <br><br>
 <div style="display: inline-block">
-  <p>
-    ### Contatos <br><br>
+  <p>     
     <a target="_blank" href="http://br.linkedin.com/in/dangelofoliveira"> 
       <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -29,14 +33,11 @@ Análise de dados | Business Intelligence | Data Science
   </p>
 </div>
 
-<br>
+<hr/>
 
 ### E aqui as Tecnologias que mais tenho afeição 👇
 
-<div style="display: inline-block">
-  
-  <br>
-    
+<div style="display: inline-block">  
   <p>
     ### Sistemas Operacionais <br><br>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -52,7 +53,7 @@ Análise de dados | Business Intelligence | Data Science
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   </p>
-
+  
   <br>
   
   <p>
@@ -63,7 +64,7 @@ Análise de dados | Business Intelligence | Data Science
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <p>
-  
+    
   <br>
     
   <p>
@@ -74,7 +75,7 @@ Análise de dados | Business Intelligence | Data Science
     <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=black"/>
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-FCC624?style=for-the-badge&logo=PowerBI&logoColor=black"/>
   </p>
-    
+      
   <br>
   
   <p>
@@ -84,12 +85,12 @@ Análise de dados | Business Intelligence | Data Science
 
 </div>
 
-<br>
+<hr/>
 
-  <p align="center">
-    ### Visitas no perfil
-  <br>
-    <p align="center">
-      <img alingn="center" src="https://profile-counter.glitch.me/dangelofoliveira/count.svg" />
-    </p>
-  </p>
+<p align="center">
+  ### Visitas no perfil
+<br>
+<p align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/dangelofoliveira/count.svg" />
+</p>
+</p>
